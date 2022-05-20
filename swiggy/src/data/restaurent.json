@@ -1,0 +1,67 @@
+[
+    {   "id":1,
+        "image":"https://raw.githubusercontent.com/riteshf/cherry/main/assets/restaurant1.jpeg",
+        "name":"Chaitanya Parathas",
+        "category":["North India", "Punjabi", "Chinese", "Thalis Combo", "Beverages"],
+        "ratings": 4.3,
+        "deliveryTimings":33,
+        "costForTwo":200,
+        "offer":["20% off","Use TRYNEW"]
+
+    },
+    {   "id":2,
+        "image":"https://raw.githubusercontent.com/riteshf/cherry/main/assets/restaurant2.jpeg",
+        "name":"Restaurant2",
+        "category":["North India", "Punjabi", "Chinese", "Thalis Combo", "Beverages"],
+        "ratings": 4.5,
+        "deliveryTimings":12,
+        "costForTwo":300,
+        "offer":["20% off","Use TRYNEW"]
+
+    },
+    {   "id":3,
+        "image":"https://raw.githubusercontent.com/riteshf/cherry/main/assets/restaurant3.jpeg",
+        "name":"Restaurant3",
+        "category":["North India", "Punjabi", "Chinese", "Thalis Combo", "Beverages"],
+        "ratings": 4.1,
+        "deliveryTimings":20,
+        "costForTwo":400,
+        "offer":["20% off","Use TRYNEW"]
+
+    },
+    {   "id":4,
+        "image":"https://raw.githubusercontent.com/riteshf/cherry/main/assets/restaurant4.jpeg",
+        "name":"Restaurant4",
+        "category":["North India", "Punjabi", "Chinese", "Thalis Combo", "Beverages"],
+        "ratings": 3.1,
+        "deliveryTimings":50,
+        "costForTwo":500,
+        "offer":["20% off","Use TRYNEW"]
+
+    },
+    {   "id":5,
+        "image":"https://raw.githubusercontent.com/riteshf/cherry/main/assets/restaurant5.jpeg",
+        "name":"Restaurant5",
+        "category":["North India", "Punjabi", "Chinese", "Thalis Combo", "Beverages"],
+        "ratings": 4.4,
+        "deliveryTimings":20,
+        "costForTwo":150,
+        "offer":["20% off","Use TRYNEW"]
+
+    },
+    {   "id":6,
+        "image":"https://raw.githubusercontent.com/riteshf/cherry/main/assets/restaurant6.jpeg",
+        "name":"Restaurant6",
+        "category":["North India", "Punjabi", "Chinese", "Thalis Combo", "Beverages"],
+        "ratings": 4.9,
+        "deliveryTimings":28,
+        "costForTwo":750,
+        "offer":["20% off","Use TRYNEW"]
+
+    }
+
+
+
+
+]
+ 
